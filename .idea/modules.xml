@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/repondre_au_question.iml" filepath="$PROJECT_DIR$/repondre_au_question.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/repondre_au_question_android.iml" filepath="$PROJECT_DIR$/android/repondre_au_question_android.iml" />
+    </modules>
+  </component>
+</project>
